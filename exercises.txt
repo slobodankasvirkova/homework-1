@@ -1,0 +1,16 @@
+HTML Exercises
+
+1.Create an HTML Page that will say "Hello World" as an output.
+
+2.Create an HTML Page that contains all the Headings tags and two paragprah tags. Separate all Heading tags with a horizontal line and add a link in one of the paragprahs.
+
+3.Create an HTML Page that has a table like on the image third-exercise.jpg
+
+4.Create an HTML Page that has a table like on the image fourth-exercise.jpg
+
+5.Create an HTML Page that has a table like on the image fifth-exercise.jpg
+
+6.Create an HTML Page that contains 3 images(your choice). Separate all images with a horizontal line.
+
+
+When writing your code don't forget to make the code look readeble, add comments, and don't forget to follow the page structure rules!
